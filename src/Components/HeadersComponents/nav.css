@@ -29,8 +29,11 @@
         width:50%;
     }
     .marquee{
-       display: none;
+       display: none !important;
        
+       }
+       .mar{
+        display: none !important;
        }
    
   }
