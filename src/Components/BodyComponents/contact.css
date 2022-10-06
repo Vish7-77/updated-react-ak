@@ -1,0 +1,45 @@
+.formin{
+    height:70vh;
+    width:100%;
+    background-color: rgb(30, 70, 74);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+ 
+}
+
+form{
+    height: 70%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+form > input{
+    width: 50%;
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 3px;
+  
+}
+form >button{
+    cursor: pointer;
+    width: 22%;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    height: 14%;
+}
+
+.hek{
+    margin:0;
+    color: white;
+}
+.hteen{
+    color: wheat;
+}
+
+
+
