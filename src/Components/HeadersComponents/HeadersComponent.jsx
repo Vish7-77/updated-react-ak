@@ -55,7 +55,8 @@ export default function HeadersComponent() {
 {Decorator({
           label: "Learn More",
           withIcon: true,
-          color:'white'
+          color:'white',
+          marginTop: '55px'
          
         })}
 </a>
