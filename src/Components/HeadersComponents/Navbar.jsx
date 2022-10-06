@@ -26,7 +26,7 @@ export default function Navbar({ navlinks, handleDrawerToogler }) {
         style={{ backgroundColor:'black' }}>
        
           <img className="ima" src ={iamg} alt="imag"/>
-          <Marquee className="mar" speed="20"  gradient={false}>
+          <Marquee className="mar" speed="20" style={{width:"20%"}}  gradient={false}>
  Asprion khuze{""}
 </Marquee>
         {/* navlinks  */}
