@@ -49,7 +49,7 @@ export default function HeadersComponent() {
           /> */}
         </Typography>
       
-<a href="/" alt="button"className="learn" style={{textDecoration:'none', color:'white',  marginLeft:'3rem'} }>
+<a href="/" alt="button"className="learn" style={{textDecoration:'none', color:'white',  marginLeft:'2rem', width:"100%"} }>
 
 
 {Decorator({
